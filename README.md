@@ -1,6 +1,11 @@
 # Cost-Efficient S3 Storage: Automating Lifecycle Rules
 
 
+
+
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7347327815798648833/
+
+
 In this project, an S3 bucket was preconfigured with lifecycle rules to automatically transition and expire objects after a set duration.
 This automation brings about operational efficiency and improves cost savings assocaiated with storing documents.
 The S3 bucket was configured to host a static website content (Index.html file). 

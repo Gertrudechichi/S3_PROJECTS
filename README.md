@@ -19,19 +19,19 @@ https://github.com/user-attachments/assets/11ed1846-b912-45b1-9931-534ecb66bb5f
 # AWS Console File Upload Demo and Validation of Infrastructure Provisioned using Terraform
 
 
-![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161150.png)
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/41408325182c2a1c46dbb4ec1447759c9169bb15/AWSConsoleScreenshots/screenshot0.jpg)
 
 
-![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161238.png)
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/41408325182c2a1c46dbb4ec1447759c9169bb15/AWSConsoleScreenshots/screenshot1.jpg)
 
 
-![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161310.png)
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/41408325182c2a1c46dbb4ec1447759c9169bb15/AWSConsoleScreenshots/screenshot2.jpg)
 
 
-![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161542.png)
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/41408325182c2a1c46dbb4ec1447759c9169bb15/AWSConsoleScreenshots/screenshot3.jpg)
 
 
-![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161642.png)
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/41408325182c2a1c46dbb4ec1447759c9169bb15/AWSConsoleScreenshots/screenshot4.png)
 
 https://www.linkedin.com/feed/update/urn:li:ugcPost:7347327815798648833/
 

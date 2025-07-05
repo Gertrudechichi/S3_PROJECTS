@@ -1,11 +1,9 @@
 # Cost-Efficient S3 Storage: Automating Lifecycle Rules
 
 
-In this project, an S3 bucket was created with lifecycle rules using terraform.This project can be replicated several times with the same configuration because terraform provides a reusable template (Terraform is an Infrastructure as Code (IaC) tool).
+This project sets up an S3 bucket with lifecycle rules using Terraform, allowing for easy replication. The bucket serves as a static website, hosting an index.html file, and also allows users to upload photos to a designated prefix.
 
-An index.html file was uploaded to an s3 bucket serving as a static website for users.A prefix where photos will be uploaded dynamically was also made avaible in the s3 bucket.
-
-The s3 bucket was managed by preconfigured lifecycle policy to transition the object to a less expensive storage class and automatically expire after its lifecycle.The object will be initially stored in the S3 standard class and transition to Standard-IA after 30 days.At the 60th day, teh object will be transitioned to Glacier Flexible retrieval for long term archival and it will expire after 90days from the time of upload in S3 standard and will be deleted.
+The bucket's lifecycle policy automatically manages objects, transitioning them through different storage classes based on their age. Initially, objects are stored in S3 Standard. After 30 days, they are moved to Standard-IA for less frequent access. At 60 days, they are transitioned to Glacier Flexible Retrieval for long-term archival. Finally, after 90 days, the objects expire and are deleted, ensuring efficient data management and cost optimization.
 
 
 

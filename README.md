@@ -11,6 +11,23 @@ https://github.com/user-attachments/assets/f46f9149-1766-4455-958f-202279a13012
 # Terraform demo AWS provider
 https://github.com/user-attachments/assets/11ed1846-b912-45b1-9931-534ecb66bb5f
 
+# AWS Console File Upload Demo and Validation of Infrastructure Provisioned using Terraform
+
+
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161150.png)
+
+
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161238.png)
+
+
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161310.png)
+
+
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161542.png)
+
+
+![image alt](https://github.com/Gertrudechichi/S3_PROJECTS/blob/bcf18ef752dd4812116aac0f024dba0570c6396e/AWSConsoleScreenshots/Screenshot%202025-07-05%20161642.png)
+
 
 
 
